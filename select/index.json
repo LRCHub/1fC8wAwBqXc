@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "今日くらいは",
   "base_artist": "TETORA",
-  "createdAt": "2026-02-22T21:11:57.895525Z",
+  "createdAt": "2026-03-31T01:19:43.862407Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "TETORA",
       "has_synced": false,
       "path": "select/pl_01_今日くらいは_TETORA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "今日くらいは",
+      "artist": "TETORA",
+      "has_synced": false,
+      "path": "select/localdb_01_今日くらいは_TETORA.txt",
+      "repo_name": "1fC8wAwBqXc"
     }
   ]
 }
